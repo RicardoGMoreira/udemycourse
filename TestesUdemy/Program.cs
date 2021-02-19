@@ -16,6 +16,8 @@ namespace TestesUdemy
 
 
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("Morning lads!");
+
             Console.Read();
 
 
