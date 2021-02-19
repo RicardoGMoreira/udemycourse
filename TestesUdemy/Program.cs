@@ -11,8 +11,22 @@ namespace TestesUdemy
              Console.WriteLine("Replace('a', 'x'): -" + s6 + "-"); */
 
 
-            DateTime d1 = DateTime.Now;
-            Console.WriteLine(d1);
+            /* DateTime d1 = DateTime.Now;
+            Console.WriteLine(d1);*/
+
+
+            Console.WriteLine("Hello, World!");
+            Console.Read();
+
+
+
+
+
+
+
+
+
+
 
 
 
